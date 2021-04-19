@@ -43,8 +43,9 @@ Wireframe :
 ### Regras do teste:
 
 - Desenvolver e entregar em até 1 semana da data da entrevista.
-- Devera utilizar algum framework JS (preferencia pelo Angular 2+/AngularJS)
-- Devera ter um layout responsivo
+- Deverá utilizar algum framework JS (preferência pelo Angular 2+/AngularJS)
+- Deverá ter um layout responsivo
+- Se possível um Pré-processador de CSS (SASS/LESS)
 
 ### Método de avaliação por prioridade (_da mais para a menos importante_):
 
