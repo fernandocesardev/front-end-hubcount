@@ -14,16 +14,16 @@ Você deverá desenvolver um mini sistema que irá calcular o frete através do 
 
 A tela inicial deverá conter 2 campos e 2 botões, sendo eles:
 
- - Campo 1: Nome do cliente
- - Campo 2: CEP do cliente
- - Botão 1: Adicionar frete (é possível adicionar mais de 1 frete para cálculo)
- - Botão 2: Calcular fretes
+- Campo 1: Nome do cliente
+- Campo 2: CEP do cliente
+- Botão 1: Adicionar frete (é possível adicionar mais de 1 frete para cálculo)
+- Botão 2: Calcular fretes
 
 Após acionar o botão para adicionar frete (Botão 1), o sistema irá adicionar o cliente e o CEP a tabela de fretes a serem calculados. 
 
 Após acionar o cálculo dos fretes (Botao 2), o sistema irá redirecionar para a última tela, que deverá conter a tabela de informações do cliente (Nome, Dados de endereço fornecidos pela consulta do CEP*) junto do cálculo do frete. Nesta mesma tela deverá ter um botão para voltar e um para imprimir o orçamento calculado.
 
-* - Rua, Bairro, Cidade, Estado...
+\* - Rua, Bairro, Cidade, Estado...
 
 OBS: Utilize um serviço de consulta de CEP. Recomendamos o ViaCEP (https://viacep.com.br/)
 
